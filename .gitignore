@@ -1,1 +1,5 @@
+#Ignorisanje foldera za slike ekrana
 slike/
+
+#Ignorisanje fajla koji sadrzi putanju do nazeg GitHub naloga
+URL_GitHubNalog.txt
